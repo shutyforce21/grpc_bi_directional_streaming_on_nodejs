@@ -1,0 +1,5 @@
+node_modules/
+src/gen/
+dist/
+.DS_Store
+package-lock.json
